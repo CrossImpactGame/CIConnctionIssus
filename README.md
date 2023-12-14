@@ -12,7 +12,7 @@ If you find yourself stuck on "Joining Lobby," there might be a few reasons for 
 - **Issue:** Sometimes, if your opponent closes their game after creating the lobby, the matchmaking server might not immediately recognize the closure.
 - **Solution:** Double-check with your opponent to ensure their game is still open. If not, kindly ask them to restart the game and create a new lobby.
 
-### 3. Blocked IP or Port:
+### 3. Blocked IP or Port **(MOST COMMON)**:
 
 - **Issue:** The IP and port you're trying to connect to might be blocked, possibly due to firewall settings or another application using the same port.
 - **Solution:**
